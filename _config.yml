@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Tiger XU" # The title of your site, this is the default if not overridden by a page
 title_separator          : "-"
 name                     : &name "Tiger XU"
@@ -23,12 +23,12 @@ repository               : "zsjtiger/zsjtiger.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   name             : "Tiger XU"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "BIT University"
+  pronouns         : "Her"  
+  bio              : "Building pharma SaaS by day, researching LLM fine-tuning theory by night."
+  location         : "Beijing, China"
+  employer         : "CrossNow"
   uri              : # URL
   email            : "zsjtiger@gmail.com" 
 
